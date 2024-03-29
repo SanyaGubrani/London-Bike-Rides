@@ -18,6 +18,12 @@ This project involves the analysis of bike-sharing data in London to understand 
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 - Tableau
 
+## How to Use:
+1. Clone the repository to your local machine.
+2. Ensure you have Python and the required libraries installed.
+3. Run the Jupyter Notebook file to execute the Python code for data analysis and predictive modeling.
+4. Open the Tableau dashboard file to interactively explore the visualizations and insights generated from the analysis.
+
 ## Outcomes:
 - Identified peak rental periods and factors influencing bike rentals.
 - Developed accurate predictive models to forecast rental demand.
